@@ -20,5 +20,3 @@ devloper: randomx3o / https://github.com/randomx3o
 serverhosting:https://github.com
 font-Rubik:https://fonts.google.com/?query=Hubert%20and%20Fischer / https://fonts.google.com/?query=Meir%20Sadan / https://fonts.google.com/?query=Cyreal
 font-kanit:https://fonts.google.com/?query=Cadson%20Demak
-
-=========================================================================================================================================================
